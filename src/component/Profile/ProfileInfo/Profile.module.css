@@ -1,0 +1,37 @@
+.profileHeadImgWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.profileHeadImg {
+    height: 50%;
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+
+.profileBioWrap {
+
+
+}
+
+.textWrapper {
+    margin: 0 30px 0 30px;
+    max-width: 200px;
+}
+
+.profileBioWrap img {
+
+}
+
+.workBio {
+    display: flex;
+    flex-direction: column;
+    margin: 0 30px 0 30px;
+}
+.jobIcon {
+    width: 150px;
+    height: 150px;
+}

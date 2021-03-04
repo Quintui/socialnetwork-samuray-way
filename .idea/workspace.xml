@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a64a897-b226-48ea-a442-0d95ae96d3ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/51f6fb256629fc755b8870c801092942.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Spin-1s-200px.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Common/FieldCreator/fieldCreator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Common/Helpers/obj-arr_helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Common/LoadingIcon/LoadingIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Common/Pagination/pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Common/RequiresDirectory/Requires.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialog/DialogComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/DialogsComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/DialogsContaianer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/Message/MessageComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Header/HeaderComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Header/HeaderContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Login/LoginContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Login/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Navbar/NavbarComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Navbar/NavbarContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPostsComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPostsContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/Post/PostComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/ProfileComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/ProfileContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/ProfileInfo/ProfileInfoComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/ProfileInfo/ProfileStatus/ProfileStatusClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/ProfileInfo/ProfileStatus/ProfileStatusComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/ProfileInfo/ProfileStatus/ProfileStatusHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/ReduxSelectors/diologs-selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/ReduxSelectors/header-selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/ReduxSelectors/login-selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/ReduxSelectors/navbar-selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/ReduxSelectors/profile-selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/ReduxSelectors/user-selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/app-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/auth-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/navBar-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Redux/users-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Tests/Components_Tests/ProfileTests/ProfileStatus.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Tests/Reducers_Tests/dialog-reducer.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Tests/Reducers_Tests/profile-reducer.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Users/User/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Users/User/User.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Users/UserClass.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Users/UserContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Users/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Users/UsersComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/api/authApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/api/instance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/hoc/lazyLoadingHok.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/hoc/withAuthHok.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SamuraiWay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SamuraiWay.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1o1HSCZszATHufFAAQ34Mwbmezu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/component/Profile/ProfileInfo/ProfileStatus" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\Programming\samuraiway\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\Programming\samuraiway\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\samuraiway\src\component\Profile\ProfileInfo\ProfileStatus" />
+      <recent name="D:\Programming\samuraiway\src\component\Redux" />
+      <recent name="D:\Programming\samuraiway\src\component\Login" />
+      <recent name="D:\Programming\samuraiway\src\component\Profile" />
+      <recent name="D:\Programming\samuraiway\src\component\Users" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\samuraiway\src\component\Common\Helpers" />
+      <recent name="D:\Programming\samuraiway\src\component" />
+      <recent name="D:\Programming\samuraiway\src\component\Redux\ReduxSelectors" />
+      <recent name="D:\Programming\samuraiway\src\component\Common\LoadingIcon" />
+      <recent name="D:\Programming\samuraiway\src\component\Common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="Profile status tester &lt;ProfileStatusText/&gt; .ProfileStatusInput must be displayed instead of ProfileStatusText " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/component/Tests/Components_Tests/ProfileTests/ProfileStatus.test.js" />
+      <test-names>
+        <test-name value="Profile status tester &lt;ProfileStatusText/&gt; " />
+        <test-name value="ProfileStatusInput must be displayed instead of ProfileStatusText " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Profile status tester &lt;ProfileStatusText/&gt; .input mustn't display " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/component/Tests/Components_Tests/ProfileTests/ProfileStatus.test.js" />
+      <test-names>
+        <test-name value="Profile status tester &lt;ProfileStatusText/&gt; " />
+        <test-name value="input mustn't display " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Profile status tester &lt;ProfileStatusText/&gt; .status must be displayed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/component/Tests/Components_Tests/ProfileTests/ProfileStatus.test.js" />
+      <test-names>
+        <test-name value="Profile status tester &lt;ProfileStatusText/&gt; " />
+        <test-name value="status must be displayed" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Profile status tester &lt;ProfileStatusText/&gt; .status text must be correct " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/component/Tests/Components_Tests/ProfileTests/ProfileStatus.test.js" />
+      <test-names>
+        <test-name value="Profile status tester &lt;ProfileStatusText/&gt; " />
+        <test-name value="status text must be correct " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Profile status tester &lt;ProfileStatusText/&gt; " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/component/Tests/Components_Tests/ProfileTests/ProfileStatus.test.js" />
+      <test-names>
+        <test-name value="Profile status tester &lt;ProfileStatusText/&gt; " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Profile status tester &lt;ProfileStatusText/&gt; .ProfileStatusInput must be displayed instead of ProfileStatusText " />
+        <item itemvalue="Jest.Profile status tester &lt;ProfileStatusText/&gt; .input mustn't display " />
+        <item itemvalue="Jest.Profile status tester &lt;ProfileStatusText/&gt; .status must be displayed" />
+        <item itemvalue="Jest.Profile status tester &lt;ProfileStatusText/&gt; .status text must be correct " />
+        <item itemvalue="Jest.Profile status tester &lt;ProfileStatusText/&gt; " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a64a897-b226-48ea-a442-0d95ae96d3ac" name="Default Changelist" comment="" />
+      <created>1612447175490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612447175490</updated>
+      <workItem from="1612447178706" duration="5493000" />
+      <workItem from="1612456241120" duration="7767000" />
+      <workItem from="1612464475273" duration="1588000" />
+      <workItem from="1612507519558" duration="795000" />
+      <workItem from="1612532175148" duration="4278000" />
+      <workItem from="1612554951858" duration="67000" />
+      <workItem from="1612555045636" duration="298000" />
+      <workItem from="1612555675116" duration="856000" />
+      <workItem from="1612557450798" duration="3020000" />
+      <workItem from="1612600711518" duration="17725000" />
+      <workItem from="1612688536407" duration="3061000" />
+      <workItem from="1612693018364" duration="1061000" />
+      <workItem from="1612694126460" duration="11000" />
+      <workItem from="1612694692681" duration="5246000" />
+      <workItem from="1612712816676" duration="3839000" />
+      <workItem from="1612811035963" duration="2325000" />
+      <workItem from="1612817917448" duration="1339000" />
+      <workItem from="1612864104976" duration="439000" />
+      <workItem from="1612868679839" duration="16035000" />
+      <workItem from="1612944134682" duration="611000" />
+      <workItem from="1612947052429" duration="193000" />
+      <workItem from="1612947342136" duration="4000" />
+      <workItem from="1612968354285" duration="7651000" />
+      <workItem from="1612979403670" duration="6293000" />
+      <workItem from="1613070440741" duration="7837000" />
+      <workItem from="1613079485630" duration="776000" />
+      <workItem from="1613113103475" duration="1369000" />
+      <workItem from="1613144008109" duration="10914000" />
+      <workItem from="1613208469615" duration="9629000" />
+      <workItem from="1613221420795" duration="4179000" />
+      <workItem from="1613249886036" duration="6917000" />
+      <workItem from="1613257033568" duration="122000" />
+      <workItem from="1613257243903" duration="746000" />
+      <workItem from="1613296227245" duration="7367000" />
+      <workItem from="1613314685382" duration="12327000" />
+      <workItem from="1613387149666" duration="1615000" />
+      <workItem from="1613406434977" duration="7693000" />
+      <workItem from="1613477852772" duration="5259000" />
+      <workItem from="1613483195661" duration="9176000" />
+      <workItem from="1613507928541" duration="47000" />
+      <workItem from="1613507983648" duration="673000" />
+      <workItem from="1613508673596" duration="159000" />
+      <workItem from="1613508842436" duration="602000" />
+      <workItem from="1613547270301" duration="1085000" />
+      <workItem from="1613548378749" duration="759000" />
+      <workItem from="1613549156130" duration="211000" />
+      <workItem from="1613549733204" duration="1232000" />
+      <workItem from="1613566858262" duration="6674000" />
+      <workItem from="1613581848101" duration="1235000" />
+      <workItem from="1613583108802" duration="416000" />
+      <workItem from="1613587910378" duration="641000" />
+      <workItem from="1613666232646" duration="7407000" />
+      <workItem from="1613717034543" duration="2536000" />
+      <workItem from="1613731884225" duration="53000" />
+      <workItem from="1613755048348" duration="1687000" />
+      <workItem from="1613803163082" duration="60000" />
+      <workItem from="1613894962761" duration="697000" />
+      <workItem from="1613895677731" duration="414000" />
+      <workItem from="1613904375330" duration="682000" />
+      <workItem from="1613905074586" duration="11184000" />
+      <workItem from="1613936764159" duration="370000" />
+      <workItem from="1613976476401" duration="701000" />
+      <workItem from="1614004377138" duration="3016000" />
+      <workItem from="1614086821485" duration="15088000" />
+      <workItem from="1614108813686" duration="1163000" />
+      <workItem from="1614166044825" duration="14783000" />
+      <workItem from="1614263036174" duration="9193000" />
+      <workItem from="1614324520770" duration="4335000" />
+      <workItem from="1614341491032" duration="626000" />
+      <workItem from="1614366471717" duration="1498000" />
+      <workItem from="1614441148205" duration="702000" />
+      <workItem from="1614451061135" duration="181000" />
+      <workItem from="1614451313769" duration="11000" />
+      <workItem from="1614451340830" duration="893000" />
+      <workItem from="1614503426886" duration="651000" />
+      <workItem from="1614527092664" duration="716000" />
+      <workItem from="1614611129515" duration="6340000" />
+      <workItem from="1614619673180" duration="606000" />
+      <workItem from="1614667466922" duration="18161000" />
+      <workItem from="1614772139462" duration="7771000" />
+      <workItem from="1614784682007" duration="2605000" />
+      <workItem from="1614787774106" duration="11728000" />
+      <workItem from="1614847429870" duration="34000" />
+      <workItem from="1614862518736" duration="3968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

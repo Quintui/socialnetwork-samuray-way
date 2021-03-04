@@ -1,0 +1,18 @@
+.activePage {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.userList {
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+
+}
+.styledList {
+    font-size: 1px;
+    color: red
+
+
+}
